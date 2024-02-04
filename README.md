@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 
 
-GIF created with Kap for macOS
+GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
 App Brainstorming (Step 4)
 _______________________________________________________________________________________________________________________________________________________________________
