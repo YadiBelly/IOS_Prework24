@@ -5,24 +5,24 @@ Submitted by: Yadisa Belliard
 IOS101-Prework is an app that shows a few static labels and allows user to change the background color of the screen to a random color on press of a button.
 
 Time spent: 1.5 hours spent in total
-_______________________________________________________________________________________________________________________________________________________________________
-Required Features
+
+<h2>Required Features</h2>
 
 The following required functionality is completed:
 
  Users are able to see a screen with three labels and a button
  Tapping the button changes the screen color to a random color
  
-Video Walkthrough
-_______________________________________________________________________________________________________________________________________________________________________
+<h2>Video Walkthrough</h2>
+
 Here's a walkthrough of implemented user stories:
 
 
 
 GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
-App Brainstorming (Step 4)
-_______________________________________________________________________________________________________________________________________________________________________
+<h2>App Brainstorming (Step 4)</h2>
+
 App - Splitwise
 
 Adding new expenses
@@ -40,11 +40,9 @@ Feature to follow or unfollow someone and how it affects the content I see on my
 Ability to direct message someone.
 Sharing a post I find on my feed with someone else through a direct message.
 
-Notes
-_______________________________________________________________________________________________________________________________________________________________________
+<h2>Notes</h2>
 
-License
-_______________________________________________________________________________________________________________________________________________________________________
+<h2>License</h2>
 
 Copyright [yyyy] [name of copyright owner]
 
