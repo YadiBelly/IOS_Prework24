@@ -2,7 +2,7 @@
 
 Submitted by: Yadisa Belliard
 
-IOS101-Prework is an app that shows a few static labels and allows user to change the background color of the screen to a random color on press of a button.
+<strong>IOS101-Prework</strong> is an app that shows a few static labels and allows user to change the background color of the screen to a random color on press of a button.
 
 Time spent: 1.5 hours spent in total
 
