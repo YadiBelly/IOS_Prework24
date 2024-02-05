@@ -34,7 +34,7 @@ Ability to automatically split the expense among selected users
 Ability to play videos inside the app
 The picture in picture feature that lets me watch a video as well as do something else in the background
 
-:iphone:App - Instagram
+:iphone:App - Spotify<i class="ci ci-spotify ci-2x"></i>
 
 Feature to follow or unfollow someone and how it affects the content I see on my feed.
 Ability to direct message someone.
