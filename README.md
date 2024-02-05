@@ -26,7 +26,7 @@ GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 :iphone:App - Coding Game 
 
 - <strong>Interactive Coding Challenges</strong: Offer a variety of coding challenges and puzzles
-- - <strong>Engaging Storyline</strong>: Create a captivating narrative that guides users through the game. 
+- <strong>Engaging Storyline</strong>: Create a captivating narrative that guides users through the game. 
 - <strong>Visual Programming Interface</strong>: Implement a visual programming interface that allows users to drag and drop code blocks to create programs. 
 
 :iphone:App - Youtube
