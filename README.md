@@ -29,12 +29,12 @@ Adding new expenses
 Displaying expenses based on filters (Date,Users)
 Ability to automatically split the expense among selected users
 
-App - Youtube
+:iphone:App - Youtube
 
 Ability to play videos inside the app
 The picture in picture feature that lets me watch a video as well as do something else in the background
 
-App - Instagram
+:iphone:App - Instagram
 
 Feature to follow or unfollow someone and how it affects the content I see on my feed.
 Ability to direct message someone.
