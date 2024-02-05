@@ -23,7 +23,7 @@ GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
 <h2>App Brainstorming (Step 4)</h2>
 
-App - Splitwise
+:iphone:App - Splitwise
 
 Adding new expenses
 Displaying expenses based on filters (Date,Users)
