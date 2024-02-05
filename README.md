@@ -10,9 +10,9 @@ Time spent: 1.5 hours spent in total
 
 The following required functionality is completed:
 
- Users are able to see a screen with three labels and a button
- Tapping the button changes the screen color to a random color
- 
+ - [x] Users are able to see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
+
 <h2>Video Walkthrough</h2>
 
 Here's a walkthrough of implemented user stories:
