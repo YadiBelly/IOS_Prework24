@@ -19,6 +19,9 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://github.com/YadiBelly/IOS_Prework24/assets/93412709/c2ba92e9-3f39-4648-a716-9e61b6ffe679
+
+
 GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
 <h2>App Brainstorming (Step 4)</h2>
