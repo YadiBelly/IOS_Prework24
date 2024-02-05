@@ -30,15 +30,14 @@ Displaying expenses based on filters (Date,Users)
 Ability to automatically split the expense among selected users
 
 :iphone:App - Youtube
+YouTube provides creators with tools to produce high-quality videos and monetize their content.
+Engage with creators and other viewers through likes, comments, and shares.
+YouTube offers a wide range of videos on various topics.
 
-Ability to play videos inside the app
-The picture in picture feature that lets me watch a video as well as do something else in the background
 
 :iphone:App - Spotify <i class="ci ci-spotify ci-2x"></i>
-
-Feature to follow or unfollow someone and how it affects the content I see on my feed.
-Ability to direct message someone.
-Sharing a post I find on my feed with someone else through a direct message.
+Spotify excels at creating personalized playlists
+Spotify offers a vast selection of podcasts across various genres, turning it into a one-stop shop for both music and spoken-word content.
 
 <h2>Notes</h2>
 
