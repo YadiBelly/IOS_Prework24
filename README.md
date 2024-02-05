@@ -2,7 +2,7 @@
 
 Submitted by: Yadisa Belliard
 
-<strong>IOS101-Prework</strong> is an app that shows a few static labels and allows user to change the background color of the screen to a random color on press of a button.
+<strong>IOS101-Prework</strong> is an app that displays several fixed labels and enables users to alter the screen's background color to a random hue by pressing a button.
 
 Time spent: 2.0 hours spent in total
 
@@ -23,18 +23,17 @@ GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
 <h2>App Brainstorming (Step 4)</h2>
 
-:iphone:App - Splitwise
+:iphone:App - Coding Game 
 
-Adding new expenses
--Displaying expenses based on filters (Date,Users)
-Ability to automatically split the expense among selected users
+- <strong>Interactive Coding Challenges</strong: Offer a variety of coding challenges and puzzles
+- - <strong>Engaging Storyline</strong>: Create a captivating narrative that guides users through the game. 
+- <strong>Visual Programming Interface</strong>: Implement a visual programming interface that allows users to drag and drop code blocks to create programs. 
 
 :iphone:App - Youtube
 
-- YouTube provides creators with tools to produce high-quality videos and monetize their content.
-- Engage with creators and other viewers through likes, comments, and shares.
 - YouTube offers a wide range of videos on various topics.
-
+- Engage with creators and other viewers through likes, comments, and shares.
+- YouTube provides creators with tools to produce high-quality videos and monetize their content.
 
 :iphone:App - Spotify 
 
