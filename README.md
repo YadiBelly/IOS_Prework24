@@ -16,6 +16,9 @@ The following required functionality is completed:
 <h2>Video Walkthrough</h2>
 Here's a walkthrough of implemented user stories:
 
+https://github.com/YadiBelly/IOS_Prework24/assets/93412709/b24c8b3a-9f45-46ff-9c73-ee3b5bd83a08
+
+
 https://github.com/YadiBelly/IOS_Prework24/assets/93412709/f7a55fdb-3b5b-46ae-9b90-0d22ebaa28f4
 
 
