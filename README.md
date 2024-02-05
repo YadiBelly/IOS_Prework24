@@ -16,13 +16,9 @@ The following required functionality is completed:
 <h2>Video Walkthrough</h2>
 Here's a walkthrough of implemented user stories:
 
-https://github.com/YadiBelly/IOS_Prework24/assets/93412709/b24c8b3a-9f45-46ff-9c73-ee3b5bd83a08
-
-
 https://github.com/YadiBelly/IOS_Prework24/assets/93412709/f7a55fdb-3b5b-46ae-9b90-0d22ebaa28f4
 
-
-GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
+Created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
 <h2>App Brainstorming (Step 4)</h2>
 
@@ -47,7 +43,7 @@ GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 
 <h2>License</h2>
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2024] [Yadisa Belliard]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
