@@ -26,18 +26,20 @@ GIF created with <a href="" target="_blank" rel="noreferrer">Kap</a> for macOS
 :iphone:App - Splitwise
 
 Adding new expenses
-Displaying expenses based on filters (Date,Users)
+-Displaying expenses based on filters (Date,Users)
 Ability to automatically split the expense among selected users
 
 :iphone:App - Youtube
-YouTube provides creators with tools to produce high-quality videos and monetize their content.
-Engage with creators and other viewers through likes, comments, and shares.
-YouTube offers a wide range of videos on various topics.
+
+- YouTube provides creators with tools to produce high-quality videos and monetize their content.
+- Engage with creators and other viewers through likes, comments, and shares.
+- YouTube offers a wide range of videos on various topics.
 
 
-:iphone:App - Spotify <i class="ci ci-spotify ci-2x"></i>
-Spotify excels at creating personalized playlists
-Spotify offers a vast selection of podcasts across various genres, turning it into a one-stop shop for both music and spoken-word content.
+:iphone:App - Spotify 
+
+- Spotify excels at creating personalized playlists
+- Spotify offers a vast selection of podcasts across various genres, turning it into a one-stop shop for both music and spoken-word content.
 
 <h2>Notes</h2>
 
