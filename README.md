@@ -1,4 +1,4 @@
-<h1>Prework - IOS101-Prework</h1>
+<h1>IOS101-Prework</h1>
 
 Submitted by: Yadisa Belliard
 
